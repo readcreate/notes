@@ -2,7 +2,8 @@
 
 ## ubuntu install codes
 
-  test
-
+```
+test
+```
 
 regular text
