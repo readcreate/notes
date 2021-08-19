@@ -5,20 +5,22 @@
 Install Zoom, Chromium, GDebi, TeamViewer
 
 ```
-sudo add-apt-repository main
-sudo add-apt-repository universe
-sudo add-apt-repository restricted
-sudo add-apt-repository multiverse  
-
 sudo apt install snapd
 
 sudo snap install zoom-client
 
 sudo snap install chromium
 
+
+sudo add-apt-repository main
+sudo add-apt-repository universe
+sudo add-apt-repository restricted
+sudo add-apt-repository multiverse  
+
+
 sudo apt install gdebi
 
-
+.
 ```
 
 Download <a href="https://www.teamviewer.com/en-us/download/linux/" target="_blank">TeamViewer</a>
