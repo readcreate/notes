@@ -28,6 +28,8 @@ Right-click on TeamViewer installer -> Open With Other Application -> GDebi Pack
 
 <a href="http://web.whatsapp.com" target="_blank">WhatsApp Web</a>
 
+<a href="http://messages.google.com/web" target="_blank">Messages Android/Google</a>
+
 
 
 
