@@ -45,6 +45,8 @@ Right-click on TeamViewer installer -> Open With Other Application -> GDebi Pack
 
 [Magical - Text Expander](https://chrome.google.com/webstore/detail/magical-text-expansion/iibninhmiggehlcdolcilmhacighjamp)
 
+[MGHIHP D2L](https://mghinstitute.desire2learn.com/d2l/login)
+
 ## references to open
 
 [Anshul RPubs page](https://rpubs.com/anshulkumar)
