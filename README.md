@@ -1,6 +1,6 @@
 # notes
 
-link to this page: [https://v.ht/akstart](https://v.ht/akstart)
+link to this page: [v.ht/akstart](https://v.ht/akstart)
 
 ## ubuntu install codes
 
