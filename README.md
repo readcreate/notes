@@ -1,5 +1,7 @@
 # notes
 
+link to this page: [https://v.ht/akstart](https://v.ht/akstart)
+
 ## ubuntu install codes
 
 Install Zoom, Chromium, GDebi, TeamViewer
