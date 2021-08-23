@@ -49,6 +49,8 @@ Right-click on TeamViewer installer -> Open With Other Application -> GDebi Pack
 
 [MGHIHP D2L](https://mghinstitute.desire2learn.com/d2l/login)
 
+[Microsoft Teams](teams.microsoft.com)
+
 ## references to open
 
 [Anshul RPubs page](https://rpubs.com/anshulkumar)
