@@ -59,5 +59,6 @@ Right-click on TeamViewer installer -> Open With Other Application -> GDebi Pack
 
 [MGHIHP HE802 textbook](https://bookdown.org/anshul302/HE802-MGHIHP-Spring2020/)
 
+## ubuntu occasionally useful code
 
-
+Check RAM: `sudo lshw -c memory`
