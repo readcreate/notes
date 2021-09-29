@@ -61,6 +61,10 @@ Right-click on TeamViewer installer -> Open With Other Application -> GDebi Pack
 
 [Unsupervised Machine Learning Clustering Tutorial in Google Colab](http://tinyurl.com/AnshulCluster1)
 
+Kumar, A., Edwards, R. A., & Walker, L. (2021, August 17). The application of predictive analytics to identify at-risk students in health professions education. Not yet a peer reviewed publication. Pre-print: https://doi.org/10.35542/osf.io/wtuv6  or https://arxiv.org/abs/2108.07709
+
+Kumar A. Edwards RA. AdaptiveLearnalytics: Adaptive Predictive Learning Analytic Tools. 2021. https://github.com/readcreate/AdaptiveLearnalytics.
+
 ## ubuntu occasionally useful code
 
 Check RAM: `sudo lshw -c memory`
