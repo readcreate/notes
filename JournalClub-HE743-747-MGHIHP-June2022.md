@@ -6,6 +6,14 @@ plain text
 
 plain text
 
-# test heading 2
+# test heading 1 again
 
 plain text
+
+# a third heading 1
+
+some stuff
+
+# a fourth heading 1
+
+some stuff
