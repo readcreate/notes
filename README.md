@@ -1,4 +1,4 @@
-# notes
+# quick start
 
 link to this page: [v.ht/akstart](https://v.ht/akstart)
 
