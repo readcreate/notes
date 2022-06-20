@@ -65,7 +65,7 @@ Kumar, A., Edwards, R. A., & Walker, L. (2021, August 17). The application of pr
 
 Kumar A. Edwards RA. AdaptiveLearnalytics: Adaptive Predictive Learning Analytic Tools. 2021. https://github.com/readcreate/AdaptiveLearnalytics.
 
-[Mental health first aid and first response notes](ssma)
+[Mental health first aid and first response notes](https://github.com/readcreate/notes/blob/main/MentalHealthFirstAid.md){target="_blank"}
 
 ## ubuntu occasionally useful code
 
