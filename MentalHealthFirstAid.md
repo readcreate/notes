@@ -1,5 +1,7 @@
 # Information about these notes
 
+* Prepared by Anshul Kumar
+
 * These notes only include what I think is absolutely necessary for me to apply the training when needed. It is intended for me to refer to when applying the training. 
 
 * These notes are about Mental Health First Aid (MHFA), meaning “help offered to an adult experiencing a mental health challenge.”
