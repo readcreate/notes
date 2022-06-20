@@ -12,10 +12,11 @@
 
 # Information for responder
 
-## Phone numbers and websites
-
 * Never obligated to provide MHFA
 * **If someone needs help immediately, call 911**
+
+## Phone numbers and websites
+
 * National Suicide Prevention Lifeline (24/7): 1-800-273-8255, suicidepreventionlifeline.org
 * Crisis Text Line (24/7): Text “MHFA” to 741741, crisistextline.org
 * Substance Abuse and Mental Health Services Administration (SAMHSA) National Helpline: 1-800-662-4357, samhsa.gov/find-help/national-helpline
