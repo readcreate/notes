@@ -57,6 +57,8 @@ Right-click on TeamViewer installer -> Open With Other Application -> GDebi Pack
 
 [MGHIHP HE902 textbook](https://bookdown.org/anshul302/HE902-MGHIHP-Spring2020/)
 
+[MGHIHP HE930 textbook](https://bookdown.org/anshul302/paml/)
+
 [MGHIHP HE802 textbook](https://bookdown.org/anshul302/HE802-MGHIHP-Spring2020/)
 
 [Unsupervised Machine Learning Clustering Tutorial in Google Colab](http://tinyurl.com/AnshulCluster1)
