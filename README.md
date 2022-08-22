@@ -16,6 +16,7 @@ sudo snap install chromium
 # above installs snapd, zoom, chromium
 ```
 
+Ubuntu Software app might also work to install Chromium
 
 ```
 sudo add-apt-repository main
