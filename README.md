@@ -37,6 +37,13 @@ Download <a href="https://www.teamviewer.com/en-us/download/linux/" target="_bla
 
 Right-click on TeamViewer installer -> Open With Other Application -> GDebi Package Installer
 
+Might also work for TeamViewer and other debian files: 
+
+```
+cd Downloads
+sudo dpkg -i teamviewer_15.32.3_amd64.deb
+```
+
 ## links to open
 
 <a href="https://mail.yahoo.com" target="_blank">Yahoo Mail</a>
