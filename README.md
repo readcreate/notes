@@ -26,8 +26,12 @@ sudo add-apt-repository multiverse
 
 sudo apt install gdebi
 
-# above adds gdebi
+# above adds gdebi (might need to run 
+sudo apt --fix-broken install 
+and then try again)
 ```
+
+
 
 Download <a href="https://www.teamviewer.com/en-us/download/linux/" target="_blank">TeamViewer</a>
 
