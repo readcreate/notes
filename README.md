@@ -52,6 +52,11 @@ cd Downloads
 sudo dpkg -i teamviewer_15.32.3_amd64.deb
 ```
 
+Speed up Ubuntu:
+
+* https://askubuntu.com/questions/1405245/zoom-client-crashes-on-ubuntu-studio-22-04-lts
+* https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1973434
+
 ## links to open
 
 <a href="https://mail.yahoo.com" target="_blank">Yahoo Mail</a>
