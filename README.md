@@ -16,7 +16,14 @@ sudo snap install chromium
 # above installs snapd, zoom, chromium
 ```
 
-Ubuntu Software app might also work to install Chromium
+Ubuntu Software app might also work to install Chromium and Zoom.
+
+This fix might be needed for Zoom to work right, especially on Ubuntu 22.04:
+
+```
+zoom --disable-gpu-sandbox
+# from https://askubuntu.com/questions/1405245/zoom-client-crashes-on-ubuntu-studio-22-04-lts
+```
 
 ```
 sudo add-apt-repository main
